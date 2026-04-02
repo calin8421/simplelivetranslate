@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Live Translate</string>
+    <string name="translate_to">Translate to:</string>
+    <string name="speak">SPEAK</string>
+    <string name="speak_out_text">Speak translated text</string>
+    <string name="output_placeholder">Speak and the text will appear here.</string>
+    <string name="LISTEN">LISTENING…</string>
+    <string name="listen">Listening…</string>
+    <string name="translating">Translating…</string>
+    <string name="input_translation_format">Input:\n%1$s\n\nTranslation:\n%2$s</string>
+
+</resources>
